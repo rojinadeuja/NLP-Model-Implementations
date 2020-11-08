@@ -9,10 +9,6 @@ So far we have researched and demonsrated:
 - How to use these word embeddings to perform classification (by using Logistic Regression, SVM, MLP)
 - How custom models differ from pre-trained NLP models
 
-Next thing we will try is to use word embeddings with Deep Neural Networks or DNNs. We will try two DNN architectures:
-- CNN
-- RNN
-
 Most of the experiments are performed on a simple benchmark dataset (IMDB review dataset) for Sentiment Classification.
 
 If github is unable to render a Jupyter notebook, copy the link of the notebook and enter into the nbviewer: https://nbviewer.jupyter.org/
